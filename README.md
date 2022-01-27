@@ -1,1 +1,1 @@
-# Globbian Syntax
+# Globbian Language
