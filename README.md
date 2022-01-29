@@ -1,1 +1,2 @@
-# Globbian Language
+# the Globbian Language
+The Globbian Language is a new music language that was designed by Tamir Globus in 2020. The language uses existing operations and structures from mathematics to instruct the player how to read the notes, and the writer how to write them. Three dimensional Vectors are used to define notes with three properties: **type**, **octave** and **time**. The **time** of the note is for how many counts it should be played. The 0th octave is the octave of middle-C. The **octave** of the note is written relative to the 0th octave, such that higher pitches octaves has positive value, and lower one's has negetive one's. 
